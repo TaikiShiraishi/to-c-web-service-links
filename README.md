@@ -36,3 +36,4 @@ to-C 向け Web サービスを展開している日本企業まとめ
 | レンティオ株式会社       | https://www.rentio.co.jp/          |            |
 | ディップ株式会社        | https://www.dip-net.co.jp/         |            |
 | 株式会社CAMPFIRE    | https://campfire.co.jp/            |            |
+| HJホールディングス株式会社 | https://www.hjholdings.jp | ハイブリッド |
